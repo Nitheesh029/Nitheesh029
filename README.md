@@ -22,7 +22,7 @@
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Programming Languages" />
 </p>
 
 ### Tools

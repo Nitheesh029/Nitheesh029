@@ -3,79 +3,112 @@
 # 👋 Hello, I'm Nitheesh!
 ### B.Sc Computer Science Student | Web Developer | DSA Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0CF760&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;DSA+Problem+Solver;React+%26+Tailwind+Specialist;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Passionate+Web+Developer;DSA+Problem+Solver;React+%26+Tailwind+Specialist;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
 I'm a Computer Science student passionate about crafting beautiful web experiences and solving complex problems. My focus is on:
-- Building responsive frontend applications with modern JavaScript frameworks
-- Solving DSA challenges with Java
-- Creating pixel-perfect UIs with Tailwind CSS
-- Continuously expanding my skills in full-stack development
+
+• Building responsive frontend applications with modern JavaScript frameworks  
+• Solving DSA challenges with Java  
+• Creating pixel-perfect UIs with Tailwind CSS  
+• Continuously expanding my skills in full-stack development  
 
 ---
 
 ## 🛠️ Tech Stack
+
 <div align="center">
-  
-| Category       | Technologies                                                                                                                                                                                                                                                                                                      |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**   | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> |
-| **Languages**  | <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">                                                                                                                                                                                                 |
-| **Tools**      | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> |
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Technologies" />
+</p>
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Programming Languages" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools and Platforms" />
+</p>
 
 </div>
 
 ---
 
 ## 📚 Currently Learning
-- 🔍 Advanced Data Structures & Algorithms in Java
-- ⚛️ React Hooks and State Management
-- 🧪 Testing React Applications (Jest/React Testing Library)
-- 🚀 Building Full-Stack Projects with Node.js
+
+```javascript
+const currentFocus = {
+    algorithms: "Advanced Data Structures & Algorithms in Java",
+    frontend: "React Hooks and State Management", 
+    testing: "Jest & React Testing Library",
+    backend: "Full-Stack Development with Node.js"
+};
+```
 
 ---
 
 ## 💻 Featured Projects
 
-### 🎯 E-Commerce Dashboard
-Modern admin dashboard for e-commerce analytics with responsive design  
-**Tech**: React, Tailwind CSS, Chart.js  
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+<div align="center">
 
-### 🌐 Portfolio Website
-Interactive portfolio with smooth animations and dark mode  
-**Tech**: React, GSAP, Tailwind CSS  
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+### 🎯 E-Commerce Dashboard
+*Modern admin dashboard for e-commerce analytics with responsive design*  
+**Stack:** React • Tailwind CSS • Chart.js
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](##) [![Source Code](https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](##)
+
+---
+
+### 🌐 Portfolio Website  
+*Interactive portfolio with smooth animations and dark mode*  
+**Stack:** React • GSAP • Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](##) [![Source Code](https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](##)
+
+---
 
 ### 🧮 Algorithm Visualizer
-Interactive tool for visualizing sorting algorithms  
-**Tech**: JavaScript, HTML5 Canvas, Tailwind CSS  
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+*Interactive tool for visualizing sorting algorithms*  
+**Stack:** JavaScript • HTML5 Canvas • Tailwind CSS
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  
-| <img src="https://github-readme-stats.vercel.app/api?username=Nitheesh029&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitheesh029&theme=dark&hide_border=true&background=0D1117" alt="Streak"> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh029&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitheesh029&theme=react-dark&hide_border=true&area=true" alt="Activity"> |
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](##) [![Source Code](https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](##)
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Analytics
+
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitheesh029&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh029&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitheesh029&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitheesh029&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  
+<a href="##"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" /></a>
+<a href="##"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+<a href="##"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" /></a>
   
 </div>
 
@@ -83,7 +116,10 @@ Interactive tool for visualizing sorting algorithms
 
 <div align="center">
   
-⭐️ From [Nitheesh](https://github.com/Nitheesh029)  
-![Visitor Count](https://komarev.com/ghpvc/?username=Nitheesh029&color=0CF760&style=flat)
+### ⭐ Thanks for visiting!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nitheesh029&color=6366f1&style=flat-square&label=Profile+Views)
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 </div>

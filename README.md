@@ -66,7 +66,7 @@ A collection of optimized DSA solutions demonstrating problem-solving skills and
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitheesh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nitheesh029&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">

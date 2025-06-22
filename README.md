@@ -25,21 +25,25 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="100" alt="Tech Stack"/>
+</div>
+
+<div align="center">
 
 ### 🎨 Frontend Magic
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies" />
+</p>
 
 ### ⚡ Problem Solving
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+</p>
 
 ### 🔧 Tools & Environment
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,github" alt="Development Tools" />
+</p>
 
 </div>
 
@@ -69,77 +73,6 @@
 - **State Management** (Redux, Context)
 - **Performance Optimization**
 - **Testing** with Jest & React Testing Library
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Project Icon"/>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **Modern Portfolio Website**
-**🛠️ Tech:** React • Tailwind CSS • Framer Motion  
-✨ **Features:**
-- Responsive design with smooth animations
-- Interactive UI components
-- Optimized for performance and SEO
-- Dark/Light mode toggle
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nitheesh029/portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 **Task Management App**
-**🛠️ Tech:** React • CSS3 • Local Storage  
-✨ **Features:**
-- CRUD operations for tasks
-- Priority-based sorting
-- Progress tracking
-- Responsive mobile design
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://your-task-app.com)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nitheesh029/task-manager)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌤️ **Weather Dashboard**
-**🛠️ Tech:** JavaScript • HTML5 • CSS3 • API  
-✨ **Features:**
-- Real-time weather data
-- 7-day forecast
-- Location-based search
-- Beautiful UI with weather animations
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://your-weather-app.com)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nitheesh029/weather-dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧮 **DSA Problem Solutions**
-**🛠️ Tech:** Java • Algorithms • Data Structures  
-✨ **Features:**
-- 100+ solved problems
-- Optimized solutions with explanations
-- Multiple approach comparisons
-- Time & space complexity analysis
-
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Nitheesh029/dsa-solutions)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nitheesh029)
 
 </td>
 </tr>

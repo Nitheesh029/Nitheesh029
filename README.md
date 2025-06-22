@@ -5,11 +5,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Passionate+Web+Developer;DSA+Problem+Solver;React+%26+Tailwind+Specialist;Continuous+Learner)](https://git.io/typing-svg)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300" />
+
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa">
 
 I'm a Computer Science student passionate about crafting beautiful web experiences and solving complex problems. My focus is on:
 
@@ -45,6 +49,8 @@ I'm a Computer Science student passionate about crafting beautiful web experienc
 
 ## 📚 Currently Learning
 
+<img align="left" alt="Learning" width="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9">
+
 ```javascript
 const currentFocus = {
     algorithms: "Advanced Data Structures & Algorithms in Java",
@@ -53,6 +59,8 @@ const currentFocus = {
     backend: "Full-Stack Development with Node.js"
 };
 ```
+
+<br clear="left"/>
 
 ---
 
@@ -104,12 +112,26 @@ const currentFocus = {
 ## 📬 Let's Connect
 
 <div align="center">
-  
-<a href="##"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" /></a>
-<a href="##"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-<a href="##"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" /></a>
-  
+
+<p>
+  <a href="##">
+    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" width="50" height="50"/>
+  </a>
+  <a href="##">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="##">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="50" height="50"/>
+  </a>
+</p>
+
+### Connect with me across platforms 🌐
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100" />
+
 </div>
 
 ---
@@ -118,8 +140,12 @@ const currentFocus = {
   
 ### ⭐ Thanks for visiting!
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Nitheesh029&color=6366f1&style=flat-square&label=Profile+Views)
 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50" />
 
 </div>
